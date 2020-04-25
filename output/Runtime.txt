@@ -1,0 +1,9 @@
+RunTime:
+
+SAR14-Doubled-Hadoop:
+1284 seconds
+-------------------
+Amazon-Hadoop:
+343 seconds
+Amazon-Sequential:
+723 seconds

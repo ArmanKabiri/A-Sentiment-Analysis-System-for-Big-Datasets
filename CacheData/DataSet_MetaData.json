@@ -1,0 +1,10 @@
+{
+	"FileType":"csv",
+	"LabelType":"Score",
+	"ScoreLowerBound":1,
+	"ScoreUpperBound":5,
+	"IDPropertyIndex":0,
+	"TextPropertyIndex":1,
+	"LabelPropertyIndex":2,
+	"PropertiesDelimiter":","
+}
